@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674101914548",
+    "project_id": "movie-database-33",
+    "storage_bucket": "movie-database-33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674101914548:android:eba87e1a65fb2f6beca0e1",
+        "android_client_info": {
+          "package_name": "com.antimon.movie_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674101914548-qiih3a5inpuusnf0jpub68a6d5cul0aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8czY4XN534TwMJe-5fbbZOS9vhhx1L3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674101914548-qiih3a5inpuusnf0jpub68a6d5cul0aj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

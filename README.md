@@ -1,6 +1,6 @@
 I made a chess app with Flutter. 
 
-<img src="https://github.com/SerdarBilgili/flutter_chess_game/blob/main/img/Screenshot_Chess_Game.png" width="540" height"1170">
+[![Serdar Bilgili](https://github.com/SerdarBilgili/flutter_chess_game/blob/main/img/Screenshot_Chess_Game.png)]
 
 
 If you want to see my different projects, you can review my Github account or get information by contacting social media and gmail.
